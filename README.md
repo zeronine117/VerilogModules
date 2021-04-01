@@ -1,2 +1,2 @@
 # VerilogModules
-Useful modules for Verilog
+Useful modules for FPGA written in Verilog
